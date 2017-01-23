@@ -1,7 +1,7 @@
 # Tasks Web App
 
 This web app uses MVC architecture to manage a task list. The features that
-form this task web app are described as [features]. The [technical spec] for
+form this task web app are described as [features]. The [technical specs] for
 this web app are also described here.
 
 ## Features
@@ -48,4 +48,4 @@ mvn spring-boot:run
 
 
 [features]: #features
-[technical specs]: #technical spec
+[technical specs]: #technical specs
