@@ -1,7 +1,7 @@
 # Tasks Service
 
 This service uses a Restful API architecture to manage a task list. The features that form
-this task service are described as [features]. The [technical spec] for
+this task service are described as [features]. The [technical specs] for
 this service are also described here.
 
 ## Features
@@ -60,4 +60,4 @@ mvn jetty:run
 
 
 [features]: #features
-[technical specs]: #technical-requirements
+[technical specs]: #technical-specs
