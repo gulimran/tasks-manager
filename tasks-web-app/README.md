@@ -48,4 +48,4 @@ mvn spring-boot:run
 
 
 [features]: #features
-[technical specs]: #technical specs
+[technical specs]: #technical-specs
